@@ -1,2 +1,10 @@
 # Hospital-Management-System
-This GUI project made in python
+
+##################################
+
+	User Name: admin
+	Password : admin
+
+##################################
+
+project made in python language.
